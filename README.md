@@ -9,7 +9,6 @@
     - 🔭  I’m currently working on Full Stack Development projects.
     - 🌱  Learning more about Backend Architectures and Frontend Developement.
     - 💬  Ask me about: React,Javascript,Html,Css,Flask,Python and matters DevOps
-    - 📫  How to reach me: mariamsenzia@gmail.com
     - ⚡   Fun fact: I love travelling and Formula 1
 
 
@@ -24,9 +23,16 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
 
+
+## 📫 Contact me
+<p>
+    <a href="https://www.linkedin.com/in/mariamsenzia/"><img alt="Linkedin profile" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:mariamsenzia@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Email"/></a>  
+</p>
